@@ -1,15 +1,9 @@
-package Nestnet.nestnet_algorithm_2023_2_advanced.LeeJungHyun.week_2;
-
+package LeeJungHyun.week_2;
 
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.Stack;
-<<<<<<< HEAD
-import java.util.StringTokenizer;
-=======
->>>>>>> origin/main
-
 //문자열 폭발
 
 //스택에는 bomb이상의 문자열이 들어가지 않는다.
