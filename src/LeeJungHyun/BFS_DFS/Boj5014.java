@@ -1,4 +1,4 @@
-package LeeJungHyun.Bfs_Dfs;
+package LeeJungHyun.BFS_DFS;
 
 import java.io.BufferedReader;
 import java.io.IOException;
