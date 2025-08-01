@@ -1,14 +1,14 @@
-package Nestnet.nestnet_algorithm_2023_2_advanced.LeeJungHyun.week1;
+package LeeJungHyun.week_1;
 
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
-public class Boj20055 {
+public class Boj20055 { //컨베이어 벨트 위의 로봇
 
 
-    // 옆으로 한칸씩 옮길 때 i=i-1 로 해야 한칸씩 옆으로 움직인다.
+    // 옆으로 한칸씩 옮길 때 i를 줄이는 방법으로 해야 덮어 씌워지지 않고 모두 옮길 수 있다.
 
     public static void main(String[] args) throws IOException {
 
